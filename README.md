@@ -77,7 +77,11 @@ Analyze luxury housing market trends and identify key factors affecting property
 
 ### Skills Used
 
-Python • Pandas • NumPy • Matplotlib • Seaborn
+• Python 
+• Pandas 
+• NumPy 
+• Matplotlib 
+• Seaborn
 
 ---
 
