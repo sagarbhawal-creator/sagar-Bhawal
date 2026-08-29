@@ -8,6 +8,51 @@ My work spans **Machine Learning, Deep Learning, NLP, Generative AI, RAG systems
 
 ---
 
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=sagar-Bhawal\&style=flat-square\&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/sagar-Bhawal?style=flat-square\&label=FOLLOWERS)
+![GitHub stars](https://img.shields.io/github/stars/sagar-Bhawal?style=flat-square\&label=STARS)
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 Data Scientist Focus
+
+**Machine Learning**
+Predictive Modeling · Feature Engineering · Model Evaluation
+
+**AI & NLP**
+Deep Learning · NLP · LLMs · Generative AI
+
+**Intelligent Systems**
+RAG · Embeddings · FAISS · LangChain
+
+</td>
+<td width="50%" valign="top">
+
+### 📌 Current Focus
+
+→ Building production-oriented **ML & GenAI applications**
+→ Improving **SQL & data modeling** skills
+→ Exploring **ML engineering & deployment**
+→ Turning real-world datasets into measurable insights
+
+### ⚡ Quick Facts
+
+**100K+** records analyzed
+**122,400** YouTube records modeled
+**6+** end-to-end data science projects
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 🧠 What I Do
 
 ```text
