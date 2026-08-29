@@ -1,205 +1,221 @@
-# Hi there, I'm Sagar Bhawal👋
+# Hi, I'm Sagar Bhawal 👋
 
-### 📊 Aspiring Data Analyst | Data Science Enthusiast | Problem Solver
+### Data Scientist | Machine Learning | NLP | Generative AI
 
-Welcome to my GitHub profile!
+I build **end-to-end data science and AI solutions** that turn raw data into predictive models, intelligent applications, and actionable insights.
 
-I am passionate about transforming raw data into meaningful insights and building data-driven solutions that solve real-world business problems. I enjoy working with data, uncovering trends, creating visualizations, and developing machine learning models that support better decision-making.
-
----
-
-## 🚀 About Me
-
-🔹 Aspiring Data Analyst with hands-on experience in data analysis, visualization, and machine learning.
-
-🔹 Skilled in extracting insights from complex datasets using Python, SQL, and BI tools.
-
-🔹 Passionate about solving business challenges through data-driven approaches.
-
-🔹 Continuously learning and improving my analytical and technical skills.
-
-🔹 Open to opportunities in Data Analytics, Business Analytics, and Data Science.
+My work spans **Machine Learning, Deep Learning, NLP, Generative AI, RAG systems, SQL analytics, and Power BI**, with hands-on experience working with datasets containing **100K+ records**.
 
 ---
 
-## 🛠️ Technical Skills
+## 🧠 What I Do
 
-### Programming & Databases
-
-* Python
-* SQL
-* MySQL
-
-### Data Analysis & Visualization
-
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Plotly
-
-### Business Intelligence
-
-* Power BI
-* Tableau
-
-### Machine Learning
-
-* Scikit-Learn
-* Clustering
-* Classification
-* Model Evaluation
-
-### Tools & Platforms
-
-* Git
-* GitHub
-* Jupyter Notebook
-* Google Colab
-* Streamlit
+```text
+📊 Data Analysis          →  Extract insights from complex datasets
+🤖 Machine Learning       →  Build & evaluate predictive models
+🧠 Deep Learning          →  Develop NLP classification solutions
+💬 NLP & LLMs             →  Build intelligent text-based applications
+🔎 RAG Systems            →  Retrieval + generation pipelines
+📈 Business Intelligence  →  Build analytical dashboards
+🚀 Deployment             →  Turn models into interactive applications
+```
 
 ---
 
-# 📂 Featured Projects
+## ⚡ Tech Stack
 
-## 🏡 Luxury Housing Sales Analysis
+### Languages
 
-### Objective
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square\&logo=postgresql\&logoColor=white)
 
-Analyze luxury housing market trends and identify key factors affecting property prices.
+### Data Science & Machine Learning
 
-### Key Highlights
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square\&logo=scikit-learn\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square\&logo=tensorflow\&logoColor=white)
 
-* Performed comprehensive Exploratory Data Analysis (EDA)
-* Cleaned and transformed housing datasets
-* Identified price-driving factors
-* Created insightful visualizations and reports
+**Machine Learning · Deep Learning · Predictive Modeling · Feature Engineering · Model Evaluation**
 
-### Skills Used
+### NLP & Generative AI
 
-• Python 
-• Pandas 
-• NumPy 
-• Matplotlib 
-• Seaborn
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square\&logo=langchain\&logoColor=white)
 
----
+**NLP · LLMs · Generative AI · RAG · Embeddings · Prompt Engineering · FAISS**
 
-## 💰 PhonePe Data Analysis
+### Analytics & Visualization
 
-### Objective
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square\&logo=powerbi\&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square\&logo=tableau\&logoColor=white)
 
-Analyze digital payment transactions across India and derive business insights.
+**Data Visualization · Business Analytics · DAX · KPI Reporting · Geospatial Visualization**
 
-### Key Highlights
+### Development & Deployment
 
-* Processed large transaction datasets
-* Analyzed state-wise and year-wise trends
-* Built interactive dashboards
-* Generated actionable insights from transaction patterns
-
-### Skills Used
-
-Python • SQL • Streamlit • Plotly • Data Visualization
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square\&logo=streamlit\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
 
 ---
 
-## 🎬 Content Monetization Modeler
+# 🚀 Featured Projects
 
-### Objective
+## 01 · Intelligent Document Assistant
 
-Develop a predictive framework to estimate content monetization potential.
+**Generative AI · RAG · LangChain · FAISS · Streamlit**
 
-### Key Highlights
+A Retrieval-Augmented Generation application that allows users to upload documents and interact with their content through natural-language questions.
 
-* Built predictive models using machine learning
-* Performed feature engineering
-* Evaluated model performance
-* Generated monetization recommendations
+### What I built
 
-### Skills Used
-
-Python • Machine Learning • Data Analysis • Statistics
-
----
-
-## 🎵 Amazon Music Clustering
-
-### Objective
-
-Segment music listeners based on behavioral and listening patterns.
-
-### Key Highlights
-
-* Applied unsupervised learning techniques
-* Performed customer segmentation
-* Identified listener groups
-* Created cluster visualizations
-
-### Skills Used
-
-Python • K-Means Clustering • Scikit-Learn • Data Visualization
+* Implemented a **RAG pipeline** for document-based question answering.
+* Applied **document chunking and embeddings** for knowledge retrieval.
+* Used **FAISS** for efficient similarity-based information retrieval.
+* Applied **prompt engineering** to improve response relevance.
+* Built an interactive **Streamlit interface** for document upload and Q&A.
 
 ---
 
-## 🛡️ Comment Toxicity Detection
+## 02 · Content Monetization Modeler
 
-### Objective
+**Machine Learning · Regression · Python**
 
-Detect toxic and harmful comments using Natural Language Processing (NLP).
+A predictive modeling project focused on forecasting **YouTube advertising revenue** from a dataset containing **122,400 records**.
 
-### Key Highlights
+### What I built
 
-* Processed text datasets
-* Built text classification models
-* Performed feature extraction
-* Evaluated classification performance
+* Performed data preprocessing and feature engineering.
+* Compared **Linear Regression, Ridge, Lasso, Decision Tree, and Random Forest** models.
+* Evaluated models using **R², MAE, and RMSE**.
+* Best-performing Linear Regression model achieved:
 
-### Skills Used
+```text
+R²    = 0.95
+MAE   = 3.11
+RMSE  = 13.48
+```
 
-Python • NLP • Machine Learning • Text Classification
-
----
-
-## 📈 Current Learning Goals
-
-* Advanced SQL Optimization
-* Machine Learning Engineering
-* Deep Learning
-* Data Engineering Fundamentals
-* Cloud Platforms (AWS & Azure)
+* Applied ensemble learning techniques for predictive modeling.
 
 ---
 
-## 📜 Certifications
+## 03 · Luxury Housing Sales Analysis
 
-* GUVI Data Science Program
-* Python Programming
-* SQL for Data Analytics
-* Machine Learning Fundamentals
+**Python · SQL · Power BI · ETL · Data Analytics**
 
-*(Add certification links here)*
+An end-to-end analytics project analyzing **100,000+ housing records** to uncover market trends, sales patterns, and business opportunities.
 
----
+### What I built
 
-## 🌟 Career Objective
+* Developed an automated **ETL pipeline** for large-scale housing data.
+* Analyzed high-performing builders and micro-markets.
+* Identified infrastructure-driven booking patterns.
+* Performed **revenue forecasting and buyer segmentation**.
+* Evaluated sales channel performance.
+* Built Power BI dashboards with:
 
-To leverage analytical thinking, data-driven methodologies, and modern technologies to solve business problems and contribute to impactful projects in the fields of Data Analytics and Data Science.
-
----
-
-## 📫 Connect With Me
-
-📧 Email: sagarbhawalsb32@gmail.com
-
-💼 LinkedIn: www.linkedin.com/in/sagar-bhawal-957638245
-
-🌐 Portfolio: 
-
-🐙 GitHub: https://github.com/sagar-Bhawal/sagar-Bhawal
+  * KPI reporting
+  * DAX calculations
+  * Drill-down analysis
+  * Geospatial visualizations
 
 ---
 
-### ✨ Favorite Quote
+## 04 · Comment Toxicity Detection
 
-> "Data is a precious thing and will last longer than the systems themselves." – Tim Berners-Lee
+**Deep Learning · NLP · LSTM · TensorFlow · Streamlit**
+
+An NLP classification system designed to identify **toxic comments from text data**.
+
+### What I built
+
+* Cleaned and preprocessed large-scale text data.
+* Developed an **LSTM-based deep learning model**.
+* Applied NLP preprocessing techniques for model training.
+* Evaluated classification performance using:
+
+  * Accuracy
+  * Precision
+  * Recall
+  * F1-Score
+  * Confusion Matrix
+* Built a **Streamlit application** for real-time toxicity prediction.
+
+---
+
+# 📊 Data Science Focus
+
+My current technical focus is centered around:
+
+```text
+Machine Learning
+      ↓
+Predictive Modeling
+      ↓
+Deep Learning & NLP
+      ↓
+Generative AI
+      ↓
+RAG & LLM Applications
+      ↓
+Model Deployment
+      ↓
+Data-driven Decision Making
+```
+
+---
+
+# 🎓 Education
+
+### Master Data Science Program with AI
+
+**IIT Madras | HCL-GUVI**
+`December 2025 – Present`
+
+### Bachelor of Education
+
+**Tarai B.Ed College, Siliguri**
+`July 2022 – October 2025`
+
+### Bachelor of Arts
+
+**Salesian College, Siliguri**
+`August 2019 – April 2022`
+
+---
+
+# 📜 Certifications
+
+* **Master Data Science Program** — HCL-GUVI
+* **ChatGPT for Everyone** — HCL-GUVI
+
+---
+
+# 📈 GitHub Activity
+
+I use GitHub to document my work across:
+
+**Data Science · Machine Learning · NLP · Generative AI · RAG · SQL · Power BI**
+
+Each project is focused on applying technical concepts to practical, end-to-end problems.
+
+---
+
+# 🤝 Let's Connect
+
+📧 **Email:** [sagarbhawalsb32@gmail.com](mailto:sagarbhawalsb32@gmail.com)
+
+💼 **LinkedIn:** [Sagar Bhawal](https://www.linkedin.com/in/sagar-bhawal-957638245/)
+
+🐙 **GitHub:** [sagar-Bhawal](https://github.com/sagar-Bhawal)
+
+---
+
+### 💡 Currently Building With
+
+**Python · SQL · Machine Learning · TensorFlow · NLP · LLMs · RAG · LangChain · FAISS · Power BI · Streamlit**
+
+<br>
+
+> **Turning data into models, and models into solutions.**
